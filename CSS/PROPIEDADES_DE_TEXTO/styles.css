@@ -1,0 +1,20 @@
+p
+{
+    color: red;
+    font-family: ney; /*Tipo de fuente*/
+    font-size: 20px; /*Tamaño de letra*/
+    font-weight: bold; /*Negritas*/
+    font-weight: 900; /*Grosor de tipografía*/
+    font-style: italic; /*Texto en diagonal*/
+    text-align: justify; /*Alinear texto*/
+    text-decoration:underline; /*Subraya, tacha,  */
+    line-height: 2; /*Tamaño de interlineado*/
+    letter-spacing: 1px; /*Qué tan separadas están las letras*/
+    text-transform: uppercase; /*Transforma todo el texto en MAYUSCULAS*/
+    
+}
+
+h1
+{
+    text-align: center; /*Alinear texto*/
+}

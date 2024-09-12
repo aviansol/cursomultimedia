@@ -1,0 +1,9 @@
+input
+{
+    width: 90%; /*Define porcentaje de la caja que la contiene (el 90% de los 300px de form) */
+}
+
+form
+{
+    width: 300px;
+}

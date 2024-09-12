@@ -1,0 +1,23 @@
+body
+{
+    margin: 0;
+    flex-direction: column;
+    
+}
+
+
+.box1
+{
+    background-color: pink;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 10px; /*Propiedad que separa elementos de abajo*/
+}
+
+.box2
+{
+    background-color: pink;
+    height: 150px;
+    width: 150px;
+    margin-top: 60px; /*Propiedad que separa elementos de arriba*/
+}

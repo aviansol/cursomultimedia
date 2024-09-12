@@ -1,0 +1,11 @@
+div{
+    background: red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    border: 5px solid coral;
+    border-radius: 10px 50px 0px 2px; /*Se modifica en el sentido de las manecillas del reloj: 10px = borde de arriba a la izquierda. 50px = borde arriba-derecho. 0pz = borde derecho-abajo. 2px=borde izquierdo-abajo*/
+}

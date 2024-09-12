@@ -1,0 +1,18 @@
+li /*Selector*/
+{ /*Llaves = Bloque de declaraciones */
+    color: red;
+}
+span
+{
+    color: purple;
+}
+
+.faltante
+{
+    color: blue;
+}
+
+#ingrediente-secreto
+{
+    color: brown;
+}

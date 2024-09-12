@@ -1,0 +1,40 @@
+body{
+    font-size: 40px;
+}
+
+
+div
+{
+    background: #ededed;
+    padding: 20px;
+    font-family: sans-serif;
+    border-left: 5px solid #999;
+    font-size: 20px; /*ELEMENTO PADRE DE TAMAÑO 20PX, ENTONCES EM=20PX*/
+    width: 100vh;
+    height: 100vw;
+    box-sizing: border-box;
+    margin: auto;
+    
+}
+
+h1
+{
+    margin: 0;
+    font-size: 24px;
+    height: 50vh; /*Tamaño disponible que tenemos en la pantalla, sin importar los cambios dentro de la pantalla viewport se va a acoplar */
+    width: 50 vw; /*Ancho disponible*/
+}
+
+
+span
+{
+    color:#999;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+p{
+    color: #555;
+    font-size: 1rem; /*No busca al elemento padre, busca al elemento raiz */
+
+}
